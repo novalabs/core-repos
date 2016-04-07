@@ -1,0 +1,52 @@
+{
+  "name": "Core",
+  "description": "NovaCore",
+  "core": [
+    {
+      "name": "core-comm-can",
+      "url": "https://github.com/novalabs/core-comm-can.git",
+      "branch": "master",
+      "description": "Core RTCAN"
+    },
+    {
+      "name": "core-mw",
+      "url": "https://github.com/novalabs/core-mw.git",
+      "branch": "master",
+      "description": "Core Middleware"
+    },
+    {
+      "name": "core-cmake",
+      "url": "https://github.com/novalabs/core-cmake.git",
+      "branch": "master",
+      "description": "Core CMake files"
+    },
+    {
+      "name": "chibios",
+      "url": "https://github.com/ChibiOS/ChibiOS.git",
+      "branch": "stable_3.0.x",
+      "description": "ChibiOS"
+    }
+  ],
+  "packages": [
+  ],
+  "modules": [
+    {
+      "name": "usb",
+      "url": "https://github.com/novalabs/usb-module.git",
+      "branch": "master",
+      "description": "USB Module"
+    },
+    {
+      "name": "udc",
+      "url": "https://github.com/novalabs/udc-module.git",
+      "branch": "master",
+      "description": "UDC Module"
+    },
+    {
+      "name": "imu",
+      "url": "https://github.com/novalabs/imu-module.git",
+      "branch": "master",
+      "description": "IMU + GPS Module"
+    }
+  ]
+}
