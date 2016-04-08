@@ -71,6 +71,12 @@
       "description": "Core PID nodes"
     },
     {
+      "name": "pid_msgs",
+      "url": "https://github.com/novalabs/pid_msgs.git",
+      "branch": "master",
+      "description": "Core PID messages"
+    },
+    {
       "name": "sensor_msgs",
       "url": "https://github.com/novalabs/sensor_msgs.git",
       "branch": "master",
