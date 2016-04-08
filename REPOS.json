@@ -28,6 +28,60 @@
     }
   ],
   "packages": [
+    {
+      "name": "actuator_msgs",
+      "url": "https://github.com/novalabs/actuator_msgs.git",
+      "branch": "master",
+      "description": "Core actuator messages"
+    },
+    {
+      "name": "actuators",
+      "url": "https://github.com/novalabs/actuators.git",
+      "branch": "master",
+      "description": "Core actuator nodes"
+    },
+    {
+      "name": "common_msgs",
+      "url": "https://github.com/novalabs/common_msgs.git",
+      "branch": "master",
+      "description": "Core common messages"
+    },
+    {
+      "name": "common",
+      "url": "https://github.com/novalabs/common.git",
+      "branch": "master",
+      "description": "Core common nodes"
+    },
+    {
+      "name": "led",
+      "url": "https://github.com/novalabs/led.git",
+      "branch": "master",
+      "description": "Core led nodes"
+    },
+    {
+      "name": "madgwick",
+      "url": "https://github.com/novalabs/madgwick.git",
+      "branch": "master",
+      "description": "Core Madgwick filter nodes"
+    },
+    {
+      "name": "pid",
+      "url": "https://github.com/novalabs/pid.git",
+      "branch": "master",
+      "description": "Core PID nodes"
+    },
+    {
+      "name": "sensor_msgs",
+      "url": "https://github.com/novalabs/sensor_msgs.git",
+      "branch": "master",
+      "description": "Core sensor messages"
+    },
+    {
+      "name": "sensors",
+      "url": "https://github.com/novalabs/sensors.git",
+      "branch": "master",
+      "description": "Core sensor nodes"
+    }
   ],
   "modules": [
     {
