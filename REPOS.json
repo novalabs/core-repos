@@ -22,7 +22,7 @@
     },
     {
       "name": "chibios",
-      "url": "https://github.com/novalabs/core-cmake.git",
+      "url": "https://github.com/novalabs/core-chibios.git",
       "branch": "master",
       "description": "ChibiOS"
     }
