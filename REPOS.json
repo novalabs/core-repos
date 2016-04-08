@@ -22,8 +22,8 @@
     },
     {
       "name": "chibios",
-      "url": "https://github.com/ChibiOS/ChibiOS.git",
-      "branch": "stable_3.0.x",
+      "url": "https://github.com/novalabs/core-cmake.git",
+      "branch": "master",
       "description": "ChibiOS"
     }
   ],
