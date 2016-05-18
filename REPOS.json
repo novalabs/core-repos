@@ -87,6 +87,12 @@
       "url": "https://github.com/novalabs/sensors.git",
       "branch": "master",
       "description": "Core sensor nodes"
+    },
+    {
+      "name": "L6470_driver",
+      "url": "https://github.com/novalabs/L6470_driver.git",
+      "branch": "master",
+      "description": "ST L6470 Stepper motor controller driver"
     }
   ],
   "modules": [
@@ -107,6 +113,12 @@
       "url": "https://github.com/novalabs/imu-module.git",
       "branch": "master",
       "description": "IMU + GPS Module"
+    },
+    {
+      "name": "stepper",
+      "url": "https://github.com/novalabs/stepper-module.git",
+      "branch": "master",
+      "description": "STEPPER Module"
     }
   ]
 }
