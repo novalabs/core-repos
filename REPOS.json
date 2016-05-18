@@ -98,25 +98,25 @@
   "modules": [
     {
       "name": "usb",
-      "url": "https://github.com/novalabs/usb-module.git",
+      "url": "https://github.com/novalabs/usb_module.git",
       "branch": "master",
       "description": "USB Module"
     },
     {
       "name": "udc",
-      "url": "https://github.com/novalabs/udc-module.git",
+      "url": "https://github.com/novalabs/udc_module.git",
       "branch": "master",
       "description": "UDC Module"
     },
     {
       "name": "imu",
-      "url": "https://github.com/novalabs/imu-module.git",
+      "url": "https://github.com/novalabs/imu_module.git",
       "branch": "master",
       "description": "IMU + GPS Module"
     },
     {
       "name": "stepper",
-      "url": "https://github.com/novalabs/stepper-module.git",
+      "url": "https://github.com/novalabs/stepper_module.git",
       "branch": "master",
       "description": "STEPPER Module"
     }
