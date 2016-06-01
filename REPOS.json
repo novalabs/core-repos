@@ -93,6 +93,24 @@
       "url": "https://github.com/novalabs/L6470_driver.git",
       "branch": "master",
       "description": "ST L6470 Stepper motor controller driver"
+    },
+    {
+      "name": "L3GD20H_driver",
+      "url": "https://github.com/novalabs/L3GD20H_driver.git",
+      "branch": "master",
+      "description": "ST L3GD20H sensor driver"
+    },
+    {
+      "name": "LSM303D_driver",
+      "url": "https://github.com/novalabs/LSM303D_driver.git",
+      "branch": "master",
+      "description": "ST LSM303D sensor driver"
+    },
+    {
+      "name": "sensor_publisher",
+      "url": "https://github.com/novalabs/sensor_publisher.git",
+      "branch": "master",
+      "description": "A CoreSensor publisher node"
     }
   ],
   "modules": [
