@@ -95,6 +95,12 @@
       "description": "Allegro A4957 driver"
     },
     {
+      "name": "MC33926_driver",
+      "url": "https://github.com/novalabs/MC33926_driver.git",
+      "branch": "master",
+      "description": "NXP MC33926 driver"
+    },
+    {
       "name": "L6470_driver",
       "url": "https://github.com/novalabs/L6470_driver.git",
       "branch": "master",
