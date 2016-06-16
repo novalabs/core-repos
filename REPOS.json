@@ -29,18 +29,6 @@
   ],
   "packages": [
     {
-      "name": "actuator_msgs",
-      "url": "https://github.com/novalabs/actuator_msgs.git",
-      "branch": "master",
-      "description": "Core actuator messages"
-    },
-    {
-      "name": "actuators",
-      "url": "https://github.com/novalabs/actuators.git",
-      "branch": "master",
-      "description": "Core actuator nodes"
-    },
-    {
       "name": "common_msgs",
       "url": "https://github.com/novalabs/common_msgs.git",
       "branch": "master",
@@ -77,16 +65,34 @@
       "description": "Core PID messages"
     },
     {
+      "name": "actuator_msgs",
+      "url": "https://github.com/novalabs/actuator_msgs.git",
+      "branch": "master",
+      "description": "Core actuator messages"
+    },
+    {
+      "name": "actuator_subscriber",
+      "url": "https://github.com/novalabs/actuator_subscriber.git",
+      "branch": "master",
+      "description": "A subscriber for CoreActuator actuators"
+    },
+    {
       "name": "sensor_msgs",
       "url": "https://github.com/novalabs/sensor_msgs.git",
       "branch": "master",
       "description": "Core sensor messages"
     },
     {
-      "name": "sensors",
-      "url": "https://github.com/novalabs/sensors.git",
+      "name": "sensor_publisher",
+      "url": "https://github.com/novalabs/sensor_publisher.git",
       "branch": "master",
-      "description": "Core sensor nodes"
+      "description": "A CoreSensor publisher node"
+    },
+    {
+      "name": "A4957_driver",
+      "url": "https://github.com/novalabs/A4957_driver.git",
+      "branch": "master",
+      "description": "Allegro A4957 driver"
     },
     {
       "name": "L6470_driver",
@@ -107,10 +113,10 @@
       "description": "ST LSM303D sensor driver"
     },
     {
-      "name": "sensor_publisher",
-      "url": "https://github.com/novalabs/sensor_publisher.git",
+      "name": "QEI_driver",
+      "url": "https://github.com/novalabs/QEI_driver.git",
       "branch": "master",
-      "description": "A CoreSensor publisher node"
+      "description": "QEI sensor driver"
     }
   ],
   "modules": [
@@ -125,6 +131,12 @@
       "url": "https://github.com/novalabs/udc_module.git",
       "branch": "master",
       "description": "UDC Module"
+    },
+    {
+      "name": "dc",
+      "url": "https://github.com/novalabs/dc_module.git",
+      "branch": "master",
+      "description": "DC Module"
     },
     {
       "name": "imu",
