@@ -161,6 +161,18 @@
       "url": "https://github.com/novalabs/stepper_module.git",
       "branch": "master",
       "description": "STEPPER Module"
+    },
+    {
+      "name": "io",
+      "url": "https://github.com/novalabs/io_module.git",
+      "branch": "master",
+      "description": "IO Module"
+    },
+    {
+      "name": "eth",
+      "url": "https://github.com/novalabs/eth_module.git",
+      "branch": "master",
+      "description": "ETH Module"
     }
   ]
 }
