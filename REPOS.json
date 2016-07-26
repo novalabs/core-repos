@@ -25,6 +25,12 @@
       "url": "https://github.com/novalabs/chibios.git",
       "branch": "master",
       "description": "ChibiOS"
+    },
+    {
+      "name": "core-tools",
+      "url": "https://github.com/novalabs/core-tools.git",
+      "branch": "master",
+      "description": "Core Tools"
     }
   ],
   "packages": [
