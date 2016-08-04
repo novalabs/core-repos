@@ -173,6 +173,12 @@
       "url": "https://github.com/novalabs/eth_module.git",
       "branch": "master",
       "description": "ETH Module"
+    },
+    {
+      "name": "proximity",
+      "url": "https://github.com/novalabs/proximity_module.git",
+      "branch": "master",
+      "description": "PROXIMITY Module"
     }
   ]
 }
