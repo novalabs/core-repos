@@ -9,10 +9,34 @@
       "description": "Core RTCAN"
     },
     {
+      "name": "core-base",
+      "url": "https://github.com/novalabs/core-base.git",
+      "branch": "master",
+      "description": "Core Base"
+    },
+    {
+      "name": "core-os",
+      "url": "https://github.com/novalabs/core-os.git",
+      "branch": "master",
+      "description": "Core OS"
+    },
+    {
       "name": "core-mw",
       "url": "https://github.com/novalabs/core-mw.git",
       "branch": "master",
       "description": "Core Middleware"
+    },
+    {
+      "name": "core-hw",
+      "url": "https://github.com/novalabs/core-hw.git",
+      "branch": "master",
+      "description": "Core Hardware"
+    },
+    {
+      "name": "core-utils",
+      "url": "https://github.com/novalabs/core-utils.git",
+      "branch": "master",
+      "description": "Core Utils"
     },
     {
       "name": "core-cmake",
