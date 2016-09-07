@@ -39,6 +39,18 @@
       "description": "Core Utils"
     },
     {
+      "name": "core-transport-rtcan",
+      "url": "https://github.com/novalabs/core-transport-rtcan.git",
+      "branch": "master",
+      "description": "Core Transport RTCAN"
+    },
+    {
+      "name": "core-transport-debug",
+      "url": "https://github.com/novalabs/core-transport-debug.git",
+      "branch": "master",
+      "description": "Core Transport Debug"
+    },
+    {
       "name": "core-cmake",
       "url": "https://github.com/novalabs/core-cmake.git",
       "branch": "master",
