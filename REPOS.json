@@ -58,14 +58,14 @@
     },
     {
       "name": "chibios_3",
-      "url": "https://github.com/ChibiOS/ChibiOS.git",
-      "branch": "stable_3.0.x",
+      "url": "https://github.com/novalabs/chibios_3.git",
+      "branch": "master",
       "description": "ChibiOS 3"
     },
     {
       "name": "chibios_16",
-      "url": "https://github.com/ChibiOS/ChibiOS.git",
-      "branch": "stable_16.1.x",
+      "url": "https://github.com/novalabs/chibios_16.git",
+      "branch": "master",
       "description": "ChibiOS 16"
     },
     {
