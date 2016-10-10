@@ -57,10 +57,16 @@
       "description": "Core CMake files"
     },
     {
-      "name": "chibios",
-      "url": "https://github.com/novalabs/chibios.git",
-      "branch": "master",
-      "description": "ChibiOS"
+      "name": "chibios_3",
+      "url": "https://github.com/ChibiOS/ChibiOS.git",
+      "branch": "stable_3.0.x",
+      "description": "ChibiOS 3"
+    },
+    {
+      "name": "chibios_16",
+      "url": "https://github.com/ChibiOS/ChibiOS.git",
+      "branch": "stable_16.1.x",
+      "description": "ChibiOS 16"
     },
     {
       "name": "core-tools",
