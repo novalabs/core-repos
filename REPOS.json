@@ -65,7 +65,7 @@
     {
       "name": "chibios_16",
       "url": "https://github.com/novalabs/chibios_16.git",
-      "branch": "master",
+      "branch": "novalabs",
       "description": "ChibiOS 16"
     },
     {
@@ -171,6 +171,18 @@
       "url": "https://github.com/novalabs/QEI_driver.git",
       "branch": "master",
       "description": "QEI sensor driver"
+    },
+    {
+      "name": "stm32_crc",
+      "url": "https://github.com/novalabs/stm32_crc.git",
+      "branch": "master",
+      "description": "STM32 CRC driver"
+    },
+    {
+      "name": "stm32_flash",
+      "url": "https://github.com/novalabs/stm32_flash.git",
+      "branch": "master",
+      "description": "STM32 Flash driver"
     }
   ],
   "modules": [
