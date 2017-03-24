@@ -234,5 +234,13 @@
       "branch": "master",
       "description": "PROXIMITY Module"
     }
+  ],
+  "libs": [
+      {
+      "name": "paho.mqtt.embedded-c",
+      "url": "https://github.com/eclipse/paho.mqtt.embedded-c.git",
+      "branch": "master",
+      "description": "PAHO MQTT embedded"
+    }
   ]
 }
