@@ -183,6 +183,12 @@
       "url": "https://github.com/novalabs/stm32_flash.git",
       "branch": "master",
       "description": "STM32 Flash driver"
+    },
+    {
+      "name": "ADS1262_driver",
+      "url": "https://github.com/novalabs/ADS1262_driver.git",
+      "branch": "master",
+      "description": "TI ADS1262 ADC driver"
     }
   ],
   "modules": [
@@ -233,10 +239,16 @@
       "url": "https://github.com/novalabs/proximity_module.git",
       "branch": "master",
       "description": "PROXIMITY Module"
+    },
+    {
+      "name": "adc",
+      "url": "https://github.com/novalabs/adc_module.git",
+      "branch": "master",
+      "description": "ADS1262 ADC Module"
     }
   ],
   "libs": [
-      {
+    {
       "name": "paho.mqtt.embedded-c",
       "url": "https://github.com/eclipse/paho.mqtt.embedded-c.git",
       "branch": "master",
