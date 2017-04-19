@@ -253,6 +253,12 @@
       "url": "https://github.com/eclipse/paho.mqtt.embedded-c.git",
       "branch": "master",
       "description": "PAHO MQTT embedded"
-    }
+    },
+    {
+      "name": "mbedtls",
+      "url": "https://github.com/ARMmbed/mbedtls.git",
+      "branch": "mbedtls-2.4.2",
+      "description": "mbed TLS"
+    }    
   ]
 }
