@@ -73,9 +73,21 @@
       "url": "https://github.com/novalabs/core-tools.git",
       "branch": "master",
       "description": "Core Tools"
+    },
+    {
+      "name": "core-bootloader",
+      "url": "https://github.com/novalabs/core-bootloader.git",
+      "branch": "master",
+      "description": "Core Bootloader"
     }
   ],
   "packages": [
+    {
+      "name": "snippets",
+      "url": "https://github.com/novalabs/snippets.git",
+      "branch": "master",
+      "description": "Code snippets used by Nova Core"
+    },
     {
       "name": "common_msgs",
       "url": "https://github.com/novalabs/common_msgs.git",
