@@ -247,6 +247,11 @@
       "description": "ETH Module"
     },
     {
+      "name": "eth-poe",
+      "url": "https://github.com/novalabs/eth-poe_module.git",
+      "branch": "master",
+      "description": "ETH + PoE Module"
+    },    {
       "name": "proximity",
       "url": "https://github.com/novalabs/proximity_module.git",
       "branch": "master",
