@@ -185,6 +185,12 @@
       "description": "QEI sensor driver"
     },
     {
+      "name": "stm32_qei",
+      "url": "https://github.com/novalabs/stm32_qei.git",
+      "branch": "master",
+      "description": "STM32 QEI driver"
+    },
+    {
       "name": "stm32_crc",
       "url": "https://github.com/novalabs/stm32_crc.git",
       "branch": "master",
