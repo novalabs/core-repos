@@ -83,205 +83,26 @@
   ],
   "packages": [
     {
-      "name": "snippets",
-      "url": "https://github.com/novalabs/snippets.git",
+      "name": "core-packages",
+      "url": "https://github.com/novalabs/core-packages.git",
       "branch": "master",
-      "description": "Code snippets used by Nova Core"
-    },
-    {
-      "name": "common_msgs",
-      "url": "https://github.com/novalabs/common_msgs.git",
-      "branch": "master",
-      "description": "Core common messages"
-    },
-    {
-      "name": "common",
-      "url": "https://github.com/novalabs/common.git",
-      "branch": "master",
-      "description": "Core common nodes"
-    },
-    {
-      "name": "led",
-      "url": "https://github.com/novalabs/led.git",
-      "branch": "master",
-      "description": "Core led nodes"
-    },
-    {
-      "name": "madgwick",
-      "url": "https://github.com/novalabs/madgwick.git",
-      "branch": "master",
-      "description": "Core Madgwick filter nodes"
-    },
-    {
-      "name": "pid",
-      "url": "https://github.com/novalabs/pid.git",
-      "branch": "master",
-      "description": "Core PID nodes"
-    },
-    {
-      "name": "pid_msgs",
-      "url": "https://github.com/novalabs/pid_msgs.git",
-      "branch": "master",
-      "description": "Core PID messages"
-    },
-    {
-      "name": "actuator_msgs",
-      "url": "https://github.com/novalabs/actuator_msgs.git",
-      "branch": "master",
-      "description": "Core actuator messages"
-    },
-    {
-      "name": "actuator_subscriber",
-      "url": "https://github.com/novalabs/actuator_subscriber.git",
-      "branch": "master",
-      "description": "A subscriber for CoreActuator actuators"
-    },
-    {
-      "name": "sensor_msgs",
-      "url": "https://github.com/novalabs/sensor_msgs.git",
-      "branch": "master",
-      "description": "Core sensor messages"
-    },
-    {
-      "name": "sensor_publisher",
-      "url": "https://github.com/novalabs/sensor_publisher.git",
-      "branch": "master",
-      "description": "A CoreSensor publisher node"
-    },
-    {
-      "name": "A4957_driver",
-      "url": "https://github.com/novalabs/A4957_driver.git",
-      "branch": "master",
-      "description": "Allegro A4957 driver"
-    },
-    {
-      "name": "MC33926_driver",
-      "url": "https://github.com/novalabs/MC33926_driver.git",
-      "branch": "master",
-      "description": "NXP MC33926 driver"
-    },
-    {
-      "name": "L6470_driver",
-      "url": "https://github.com/novalabs/L6470_driver.git",
-      "branch": "master",
-      "description": "ST L6470 Stepper motor controller driver"
-    },
-    {
-      "name": "L3GD20H_driver",
-      "url": "https://github.com/novalabs/L3GD20H_driver.git",
-      "branch": "master",
-      "description": "ST L3GD20H sensor driver"
-    },
-    {
-      "name": "LSM303D_driver",
-      "url": "https://github.com/novalabs/LSM303D_driver.git",
-      "branch": "master",
-      "description": "ST LSM303D sensor driver"
-    },
-    {
-      "name": "QEI_driver",
-      "url": "https://github.com/novalabs/QEI_driver.git",
-      "branch": "master",
-      "description": "QEI sensor driver"
-    },
-    {
-      "name": "stm32_qei",
-      "url": "https://github.com/novalabs/stm32_qei.git",
-      "branch": "master",
-      "description": "STM32 QEI driver"
-    },
-    {
-      "name": "stm32_crc",
-      "url": "https://github.com/novalabs/stm32_crc.git",
-      "branch": "master",
-      "description": "STM32 CRC driver"
-    },
-    {
-      "name": "stm32_flash",
-      "url": "https://github.com/novalabs/stm32_flash.git",
-      "branch": "master",
-      "description": "STM32 Flash driver"
-    },
-    {
-      "name": "ADS1262_driver",
-      "url": "https://github.com/novalabs/ADS1262_driver.git",
-      "branch": "master",
-      "description": "TI ADS1262 ADC driver"
+      "description": "Nova Core packages"
     }
   ],
   "modules": [
     {
-      "name": "usb",
-      "url": "https://github.com/novalabs/usb_module.git",
+      "name": "core-modules",
+      "url": "https://github.com/novalabs/core-modules.git",
       "branch": "master",
-      "description": "USB Module"
-    },
-    {
-      "name": "udc",
-      "url": "https://github.com/novalabs/udc_module.git",
-      "branch": "master",
-      "description": "UDC Module"
-    },
-    {
-      "name": "dc",
-      "url": "https://github.com/novalabs/dc_module.git",
-      "branch": "master",
-      "description": "DC Module"
-    },
-    {
-      "name": "imu",
-      "url": "https://github.com/novalabs/imu_module.git",
-      "branch": "master",
-      "description": "IMU + GPS Module"
-    },
-    {
-      "name": "stepper",
-      "url": "https://github.com/novalabs/stepper_module.git",
-      "branch": "master",
-      "description": "STEPPER Module"
-    },
-    {
-      "name": "io",
-      "url": "https://github.com/novalabs/io_module.git",
-      "branch": "master",
-      "description": "IO Module"
-    },
-    {
-      "name": "eth",
-      "url": "https://github.com/novalabs/eth_module.git",
-      "branch": "master",
-      "description": "ETH Module"
-    },
-    {
-      "name": "eth-poe",
-      "url": "https://github.com/novalabs/eth-poe_module.git",
-      "branch": "master",
-      "description": "ETH + PoE Module"
-    },    {
-      "name": "proximity",
-      "url": "https://github.com/novalabs/proximity_module.git",
-      "branch": "master",
-      "description": "PROXIMITY Module"
-    },
-    {
-      "name": "adc",
-      "url": "https://github.com/novalabs/adc_module.git",
-      "branch": "master",
-      "description": "ADS1262 ADC Module"
+      "description": "Nova Core modules"
     }
   ],
   "libs": [
     {
-      "name": "paho.mqtt.embedded-c",
-      "url": "https://github.com/eclipse/paho.mqtt.embedded-c.git",
+      "name": "core-libs",
+      "url": "https://github.com/novalabs/core-libs.git",
       "branch": "master",
-      "description": "PAHO MQTT embedded"
-    },
-    {
-      "name": "mbedtls",
-      "url": "https://github.com/ARMmbed/mbedtls.git",
-      "branch": "mbedtls-2.4.2",
-      "description": "mbed TLS"
-    }    
+      "description": "Third party libraries"
+    }
   ]
 }
