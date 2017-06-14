@@ -207,6 +207,12 @@
       "url": "https://github.com/novalabs/ADS1262_driver.git",
       "branch": "master",
       "description": "TI ADS1262 ADC driver"
+    },
+    {
+      "name": "basic_sensors",
+      "url": "https://github.com/novalabs/basic_sensors.git",
+      "branch": "master",
+      "description": "Basic sensors"
     }
   ],
   "modules": [
