@@ -213,6 +213,12 @@
       "url": "https://github.com/novalabs/basic_sensors.git",
       "branch": "master",
       "description": "Basic sensors"
+    },
+    {
+      "name": "lwip_bindings",
+      "url": "https://github.com/novalabs/lwip_bindings.git",
+      "branch": "master",
+      "description": "LWIP bindings"
     }
   ],
   "modules": [
